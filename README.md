@@ -9,7 +9,7 @@ I am an Assistant Professor in the Department of Biostatistics at the University
 
 ### Expertise
 R, python, Nextflow DSL2, bash, awk and sed, R shiny, FastAPI
-[(https://skillicons.dev/icons?i=r,git,github,linux,md,mysql,vscode,windows)](https://skillicons.dev)
+[!(https://skillicons.dev/icons?i=r,git,github,linux,md,mysql,vscode,windows)](https://skillicons.dev)
 
 I am currently (trying) to learn Rust
 
