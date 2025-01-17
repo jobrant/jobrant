@@ -1,5 +1,5 @@
 # Jason Orr Brant, PhD
-<!--![headshot](https://github.com/user-attachments/assets/ab31a9dc-9cc4-44c5-b85e-306f7c89f338)
+![headshot](https://github.com/user-attachments/assets/ab31a9dc-9cc4-44c5-b85e-306f7c89f338)
 
 **jobrant/jobrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
