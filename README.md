@@ -1,4 +1,4 @@
-# Jason Orr Brant, PhD <img src="https://github.com/user-attachments/assets/ab31a9dc-9cc4-44c5-b85e-306f7c89f338" alt="My Image" width="75" />
+# Jason Orr Brant, PhD <p align="right"> <img src="https://github.com/user-attachments/assets/ab31a9dc-9cc4-44c5-b85e-306f7c89f338" alt="My Image" width="75" />
 
 
 - 🔭 I’m currently working on ...
