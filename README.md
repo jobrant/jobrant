@@ -7,10 +7,15 @@ Welcome to my GitHub profile! I am a bioinformatics scientist who was originally
 
 I am an Assistant Professor in the Department of Biostatistics at the University of Florida where I am the leader of the bioinformatics unit of Biostatistics and Computational Biology Shared Resource within the UF Health Cancer Center. I am also a co-leader of the Bioinformatics, Methodological, and Statistics Core for the tri-university Florida-California Cancer Research, Education and Engagement (CaRE2) Health Equity Center. This center, comprised of researchers from the Uiversity of Southern California, the Univeristy of Florida, and Florida Agricultural and Mechanical University, focuses on addressing disparities in cancer.  I also maintain a long-term collaboration with Dr. Mike Kladde at UF's Department of Biochemistry. Dr Kladde is a pioneer in the field of single-molecule assay development for interogating DNA methylation and chromatin accessibility, for which I develop the computational tools to analyse.
 
+### Expertise
+R, python, Nextflow DSL2, bash, awk and sed, R shiny, FastAPI
+[!](https://skillicons.dev/icons?i=r,git,github,linux,md,mysql,vscode,windows)](https://skillicons.dev)
+
+I am currently (trying) to learn Rust
+
 - **Name:** Jason Orr Brant, PhD
 - **Email:** jobrant@ufl.edu
 - **LinkedIn:** https://www.linkedin.com/in/brantjason/
 
 
 
--->
