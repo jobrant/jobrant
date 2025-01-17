@@ -1,5 +1,4 @@
-## Hi there 👋
-
+# Jason Orr Brant, PhD
 <!--
 **jobrant/jobrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
