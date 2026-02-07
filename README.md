@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I am an **Assistant Professor** in the [Department of Biostatistics](https://directory.ufhealth.org/brant-jason) at the **University of Florida**, where I lead the bioinformatics unit of the **Biostatistics and Computational Biology Shared Resource** within the UF Health Cancer Center.
+I am an **Assistant Professor** in the [Department of Biostatistics](https://directory.ufhealth.org/brant-jason) at the **University of Florida**, where I lead the bioinformatics unit of the **Biostatistics and Computational Biology Shared Resource** within the UF Health Cancer Institute.
 
 Originally trained as a molecular biologist and biochemist, my research is focused in the field of **epigenetics** — particularly **DNA methylation** and **chromatin structure** — and how these can affect disease initiation and progression. I am also interested in how epigenetic changes induced by environmental or nutritional insults can be inherited intergenerationally.
 
