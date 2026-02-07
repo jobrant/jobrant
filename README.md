@@ -1,24 +1,48 @@
-✨                  ✨
-# Jason Orr Brant, PhD 
-Welcome to my GitHub profile! I am a bioinformatics scientist who was originally trained as a molecular biologist and a biochemist. My reearch is focused in the field of epigenetics, with a particular focus on DNA methylation and chromatin structure, and how these can affect disease initiation and progression. I am also interested in how epigenetic changes induced by environmental or nutritional insults can be inherited intergenerationally. The bulk of my work is involved in the development of computational tools for the analysis and visualization of large, complex genomics based assays. 
+<div align="center">
 
+# ✨ Jason Orr Brant, PhD ✨
 
-### About Me
+**Bioinformatics Scientist | Epigeneticist | Computational Tool Developer**
 
-I am an Assistant Professor in the Department of Biostatistics at the University of Florida ([profile](https://directory.ufhealth.org/brant-jason)) where I am the leader of the bioinformatics unit of the Biostatistics and Computational Biology Shared Resource within the UF Health Cancer Center. I am also a co-leader of the Bioinformatics, Methodological, and Statistics Core for the tri-university Florida-California Cancer Research, Education and Engagement (CaRE2) Health Center. This center, comprised of researchers from the Uiversity of Southern California, the Univeristy of Florida, and Florida Agricultural and Mechanical University, focuses on addressing disparities in cancer.  I also maintain a long-term collaboration with Dr. Mike Kladde at UF's Department of Biochemistry. Dr Kladde is a pioneer in the field of single-molecule assay development for interogating DNA methylation and chromatin accessibility, for which I develop the computational tools to analyse.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brantjason/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jobrant@ufl.edu)
+[![UF Profile](https://img.shields.io/badge/UF_Health-FA4616?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)](https://directory.ufhealth.org/brant-jason)
 
-### Expertise
-R, python, Nextflow DSL2, bash, awk and sed, R shiny, FastAPI
+</div>
 
-[![Skills](https://skillicons.dev/icons?i=r,git,github,linux,md,mysql,vscode,windows)](https://skillicons.dev)
+---
 
-I am currently (trying) to learn Rust
+## 👋 About Me
 
-### My other GitHub Pages: https://github.com/UFHCC-BCBSR
+I am an **Assistant Professor** in the [Department of Biostatistics](https://directory.ufhealth.org/brant-jason) at the **University of Florida**, where I lead the bioinformatics unit of the **Biostatistics and Computational Biology Shared Resource** within the UF Health Cancer Center.
 
-- **Name:** Jason Orr Brant, PhD
-- **Email:** jobrant@ufl.edu
-- **LinkedIn:** https://www.linkedin.com/in/brantjason/
+Originally trained as a molecular biologist and biochemist, my research is focused in the field of **epigenetics** — particularly **DNA methylation** and **chromatin structure** — and how these can affect disease initiation and progression. I am also interested in how epigenetic changes induced by environmental or nutritional insults can be inherited intergenerationally.
 
+The bulk of my work involves the development of **computational tools** for the analysis and visualization of large, complex genomics-based assays.
 
+## 🔬 Research & Collaborations
 
+- **🏥 UF Health Cancer Center** — Leader of the Bioinformatics Unit, Biostatistics and Computational Biology Shared Resource
+- **🤝 [CaRE2 Health Equity Center](https://care2center.ufl.edu/)** — Co-leader of the Bioinformatics, Methodological, and Statistics Core for this tri-university (USC, UF, FAMU) center focused on addressing disparities in cancer
+- **🧬 Kladde Lab Collaboration** — Long-term collaboration with Dr. Mike Kladde (UF Biochemistry), a pioneer in single-molecule assay development for interrogating DNA methylation and chromatin accessibility, for which I develop the computational analysis tools
+
+## 🛠️ Technical Skills
+
+[![Skills](https://skillicons.dev/icons?i=r,py,bash,git,github,linux,md,mysql,vscode)](https://skillicons.dev)
+
+| Languages | Frameworks & Tools | Currently Learning |
+|-----------|-------------------|-------------------|
+| R, Python, Bash | Nextflow DSL2, R Shiny, FastAPI | 🦀 Rust |
+| awk, sed, SQL | Git, VS Code, Linux | |
+
+## 🏢 Other GitHub Pages
+
+[![BCBSR](https://img.shields.io/badge/UF_HCC_BCBSR-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/UFHCC-BCBSR)
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jobrant&show_icons=true&theme=default&hide_border=true)
+
+</div>
