@@ -14,7 +14,7 @@
 
 ## 👋 About Me
 
-I am an **Assistant Professor** in the [Department of Biostatistics](https://directory.ufhealth.org/brant-jason) at the **University of Florida**, where I lead the bioinformatics unit of the **Biostatistics and Computational Biology Shared Resource** within the UF Health Cancer Center.
+I am an **Assistant Professor** in the [Department of Biostatistics](https://directory.ufhealth.org/brant-jason) at the **University of Florida**, where I lead the bioinformatics unit of the **Biostatistics and Computational Biology Shared Resource** within the UF Health Cancer Institute.
 
 Originally trained as a molecular biologist and biochemist, my research is focused in the field of **epigenetics** — particularly **DNA methylation** and **chromatin structure** — and how these can affect disease initiation and progression. I am also interested in how epigenetic changes induced by environmental or nutritional insults can be inherited intergenerationally.
 
@@ -22,7 +22,7 @@ The bulk of my work involves the development of **computational tools** for the 
 
 ## 🔬 Research & Collaborations
 
-- **🏥 UF Health Cancer Center** — Leader of the Bioinformatics Unit, Biostatistics and Computational Biology Shared Resource
+- **🏥 [UF Health Cancer Institute](https://cancer.ufl.edu/)** — Leader of the Bioinformatics Unit, Biostatistics and Computational Biology Shared Resource
 - **🤝 [CaRE2 Health Equity Center](https://care2center.ufl.edu/)** — Co-leader of the Bioinformatics, Methodological, and Statistics Core for this tri-university (USC, UF, FAMU) center focused on addressing disparities in cancer
 - **🧬 Kladde Lab Collaboration** — Long-term collaboration with Dr. Mike Kladde (UF Biochemistry), a pioneer in single-molecule assay development for interrogating DNA methylation and chromatin accessibility, for which I develop the computational analysis tools
 
